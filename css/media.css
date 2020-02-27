@@ -1,0 +1,37 @@
+body {
+  height: 80rem;
+  background: url('https://images.pexels.com/photos/261292/pexels-photo-261292.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500')
+    no-repeat center center/cover;
+}
+
+h1 {
+  text-align: center;
+  padding: 8rem 0;
+  font-size: 2.4rem;
+  color: gold;
+  animation: slidein 1s;
+}
+
+.btn .effect {
+  text-decoration: none;
+  color: beige;
+  display: inline-block;
+  padding: 1rem 1rem;
+  background-color: rgba(0, 0, 0, 0.5);
+  box-shadow: -0.8px -0.8px 20px rgb(194, 164, 131);
+  border-radius: 1rem;
+  animation: slidein 1s;
+  transition: all 0.5s ease-in-out;
+  font-size: 1.5rem;
+}
+
+.btn .content {
+  /* border: 1px solid #daa520; */
+  border-radius: 1rem;
+  padding: 0.5rem 1rem;
+  width: 90%;
+  margin: 5rem 0;
+  background-color: rgba(0, 0, 0, 0.5);
+  transition: all 1s;
+  animation: slidein 1s;
+}
