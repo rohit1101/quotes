@@ -1,3 +1,3 @@
 # quotes
-My second Javascript App
+Quotes Generator App
 Please ignore the quotes as of now...
