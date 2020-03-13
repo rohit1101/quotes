@@ -1,3 +1,3 @@
 # quotes
 Quotes Generator App
-Please ignore the quotes as of now...
+Searching some good quotes !
